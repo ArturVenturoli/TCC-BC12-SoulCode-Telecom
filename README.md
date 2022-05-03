@@ -1,4 +1,4 @@
-# TCC BC12 SoulCode Telecom
+# TCC BC12 SoulCode Telecom - Realizado em Abril de 2022
  Este trabalho de conclusão foi realizado em grupo com tema determinado pelos professores.
 
 **Integrantes do grupo:**
